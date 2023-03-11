@@ -15,7 +15,7 @@ Vira Datry Maulydina - 5027211050
 
 Anisa Ghina Salsabila - 5027211062
 
-Menggunakan:
+## Library yang digunakan:
 - Library aiogram untuk Telegram Bot nya
 - Library pyttsx3 untuk fungsi text-to-speech nya
 
