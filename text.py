@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton  # for reply keybo
 import pyttsx3 # text to speech module
  
  
-bot = Bot(token='6109751518:AAG45Q0qwX2M8QPTF_-G6QHrhb3xjjO-1D4')
+bot = Bot(token='YOUR-TOKEN-HERE')
 dp = Dispatcher(bot)
 
 
