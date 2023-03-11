@@ -2,7 +2,7 @@
 Text-To-Speech Telegram Bot
 
 
-## Teknologi Multimedia A
+## Teknologi Multimedia A - Kelompok 4
 - Wahyu Andhika Rizaldi - 5027211003
 - Andreas Timotius Parhorasan - 5027211019
 - Andana Satrio Herdiansah - 5027211031
