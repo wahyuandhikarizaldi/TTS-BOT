@@ -17,5 +17,6 @@ Text-To-Speech Telegram Bot
 ## Fitur-fitur:
 - Merubah teks input dari pengguna menjadi audio
 - Load file .txt dari device atau dari cloud lalu dirubah menjadi audio
-- Memilih suara laki-laki atau perempuan
+- Memilih pembicara US atau UK
+- Memilih pembicara laki-laki atau perempuan
 - Audio dapat diteruskan ke aplikasi lain, dijadikan attachment, dan di download
